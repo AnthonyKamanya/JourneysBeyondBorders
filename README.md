@@ -1,16 +1,30 @@
-# React + Vite
+# Journey Beyond Borders
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple web application to help you keep track of your tasks within the first week to first six months in a new country. You can keep track of your progress in real time, worry less about important things to remember to do and integrate perfectly into the society 
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **Identify a Track**: Pick what visa category/route you are on to know what resource and information is important to you
+- **Tasks progress**: Mark tasks as you do them, not started, work in progress, completed
+- **Profile**: Update your profile or restart task 
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Installation
 
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. **Clone the Repository**: Copy the project to your computer.
+   ```
+   git clone git@github.com:AnthonyKamanya/JourneysBeyondBorders.git
+   git clone https://github.com/AnthonyKamanya/JourneysBeyondBorders.git
+   ```
+2. **Navigate to the Project Directory**: Go to the folder where the project is located.
+   ```
+   cd JourneysBeyondBorders
+   ```
+3. **Install Dependencies**: Get all the necessary tools and libraries.
+   ```
+   npm install
+   ```
+4. **Run the app locally**: Use the npm CLI to run your app locally
+   ```
+   npm run dev
+   ```
